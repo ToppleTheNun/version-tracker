@@ -1,0 +1,14 @@
+{
+  "SIT": {
+    "version": "8.3.40",
+    "build": "552"
+  },
+  "PREPROD": {
+    "version": "4.2.36",
+    "build": "342"
+  },
+  "UAT": {
+    "version": "8.3.91",
+    "build": "602"
+  }
+}
